@@ -6,12 +6,12 @@ const nextConfig = {
     return [
       {
         source: "/",
-        destination: "https://forms.gle/k15C2vWyy1mkH5hv5",
+        destination: "https://forms.gle/LeZpFSEgu69wBgmYA",
         permanent: true,
       },
       {
         source: "/order",
-        destination: "https://forms.gle/k15C2vWyy1mkH5hv5",
+        destination: "https://forms.gle/LeZpFSEgu69wBgmYA",
         permanent: true,
       },
     ];
